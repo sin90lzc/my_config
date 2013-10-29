@@ -27,17 +27,28 @@ virt-install \
 --extra-args "ks=file:/ks.cfg"
 
 
---install with local path(no network)
+--install with local path(no network) for vbirt
 virt-install \
 --connect=qemu:///system \
---name vmx \
+--name vm_vbirt \
 --ram=1024 \
 --location=/tmp/CentOS-6.4-x86_64-netinstall.iso \
 --os-type=linux \
 --os-variant=rhel6 \
---disk path=/dev/vg_data/lv_vmx \
---disk path=/dev/vg_data/lv_vmx1 \
+--disk path=/dev/vg_vbirt/lv_vbirt \
 --network bridge=br0,model=virtio \
---initrd-inject=/var/ftp/pub/CentOS/ks.cfg \
---extra-args "ks=file:/ks.cfg"
+--initrd-inject=/git/github/my_config/linux/kickstart/vbirt_ks.cfg \
+--extra-args "ks=file:/vbirt_ks.cfg"
 
+--install with local path(no network) for test vm
+virt-install \
+--connect=qemu:///system \
+--name vm \
+--ram=1024 \
+--location=/tmp/CentOS-6.4-x86_64-netinstall.iso \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/dev/vg_data/lv_vm \
+--network bridge=br0,model=virtio \
+--initrd-inject=/git/github/my_config/linux/kickstart/ks_vm.cfg \
+--extra-args "ks=file:/ks_vm.cfg"
