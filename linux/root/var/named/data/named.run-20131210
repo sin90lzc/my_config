@@ -1,0 +1,1969 @@
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 177
+running
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'com/DNSKEY/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+client 192.168.1.130#59640: error sending response: host unreachable
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:502:4612::1#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 177
+running
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'com/DS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+client 192.168.1.130#51403: error sending response: host unreachable
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 177
+running
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'com/DS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'com/DS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+client 192.168.1.130#50043: error sending response: host unreachable
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1a::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1a::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1014::1#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 177
+running
+error (network unreachable) resolving 'yunio.com/DS/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+client 192.168.1.130#58121: error sending response: host unreachable
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1a::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1a::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:500:13::73#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'safebrowsing.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'arpa/DS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+client 192.168.1.130#52413: error sending response: host unreachable
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::30#53
+client 192.168.1.130#59691: error sending response: host unreachable
+error (network unreachable) resolving 'etbmadyaim/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'fdvynaxqmy/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ixdyfdjtor/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 179
+running
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2610:20:8c00:8c00::2#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2610:20:8c00:8c00::2#53
+error (network unreachable) resolving 'noaa.gov/DS/IN': 2001:500:4431::2:30#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2607:f140:ffff:fffe::e#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:67c:1010:17::53#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'hk/DS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'edgesuite.net/DS/IN': 2001:503:231d::2:30#53
+client 192.168.1.130#41446: error sending response: host unreachable
+error (network unreachable) resolving 'ccw2.ocu.edu.tw/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'baby.vbird.tw/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'org/DS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dns.vbird.org/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dns2.vbird.org/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'vbird.dic.ksu.edu.tw/A/IN': 2001:b020:0:77::1#53
+error (network unreachable) resolving 'vbird.dic.ksu.edu.tw/A/IN': 2001:b000:1e0:c000::11#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:b020:0:77::1#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:b000:1e0:c000::11#53
+error (network unreachable) resolving 'vbird.dic.ksu.edu.tw/A/IN': 2001:cd8:400::195#53
+error (network unreachable) resolving 'vbird.dic.ksu.edu.tw/A/IN': 2001:cd8:800::8#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:cd8:400::195#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:cd8:800::8#53
+error (network unreachable) resolving 'www.imacat.idv.tw/A/IN': 2001:b020:0:77::1#53
+error (network unreachable) resolving 'www.imacat.idv.tw/A/IN': 2001:b000:1e0:c000::11#53
+error (network unreachable) resolving 'www.imacat.idv.tw/A/IN': 2001:cd8:400::195#53
+error (network unreachable) resolving 'www.imacat.idv.tw/A/IN': 2001:cd8:800::8#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'vbird.dic.ksu.edu.tw/A/IN': 2001:cd8:800::14#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:cd8:800::14#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:b000:168::1:c:10#53
+error (network unreachable) resolving 'www.dic.ksu.edu.tw/A/IN': 2001:c50:ffff:1::229#53
+client 192.168.1.130#49770: error sending response: host unreachable
+error (network unreachable) resolving 'ns2.cuhk.edu.hk/A/IN': 2404:0:10a0::58#53
+error (network unreachable) resolving 'ns2.cuhk.edu.hk/AAAA/IN': 2404:0:10a0::58#53
+client 192.168.1.130#40981: error sending response: host unreachable
+error (network unreachable) resolving 'ns2.cuhk.hk/A/IN': 2404:0:10a0::58#53
+error (network unreachable) resolving 'ns2.cuhk.hk/AAAA/IN': 2404:0:10a0::58#53
+error (network unreachable) resolving 'ns2.cuhk.hk/A/IN': 2001:500:14:6046:ad::1#53
+error (network unreachable) resolving 'ns2.cuhk.hk/A/IN': 2405:3001:1:3a::27#53
+error (network unreachable) resolving 'ns2.cuhk.edu.hk/AAAA/IN': 2405:3001:1:3a::27#53
+error (network unreachable) resolving 'deneb.dfn.de/AAAA/IN': 2001:678:2::53#53
+error (network unreachable) resolving 'deneb.dfn.de/A/IN': 2001:678:2::53#53
+error (network unreachable) resolving 'ns2.cuhk.hk/AAAA/IN': 2405:3001:1:3a::27#53
+client 192.168.1.130#36127: error sending response: host unreachable
+client 192.168.1.130#53046: error sending response: host unreachable
+client 192.168.1.130#47743: error sending response: host unreachable
+client 192.168.1.130#58598: error sending response: host unreachable
+error (network unreachable) resolving 'gstatic.com/DS/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'zh.wikipedia.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'w.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 't.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 't.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'r.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'r.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'u.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'u.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'v.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'v.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'y.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'y.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'z.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'z.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'w.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'x.arin.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'x.arin.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'v.arin.net/A/IN': 2001:500:31::108#53
+error (network unreachable) resolving 'y.arin.net/AAAA/IN': 2001:500:31::108#53
+listening on IPv4 interface virbr0, 192.168.122.1#53
+binding TCP socket: address in use
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'www.nciku.cn/A/IN': 2001:dc7:1000::1#53
+error (network unreachable) resolving 'www.nciku.cn/A/IN': 2001:dc7::1#53
+error (network unreachable) resolving 'wikipedia.org/DS/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'wikipedia.org/DS/IN': 2001:500:e::1#53
+error (FORMERR) resolving 'ns1.ee28.cn/AAAA/IN': 50.117.120.237#53
+error (FORMERR) resolving 'ns2.ee28.cn/AAAA/IN': 50.117.120.237#53
+error (FORMERR) resolving 'ns2.do94.cn/AAAA/IN': 50.117.120.237#53
+error (FORMERR) resolving 'ns1.do94.cn/AAAA/IN': 50.117.120.237#53
+error (FORMERR) resolving 'ns2.do94.cn/AAAA/IN': 50.117.120.238#53
+error (FORMERR) resolving 'ns1.do94.cn/AAAA/IN': 50.117.120.238#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+client 192.168.1.130#47590: error sending response: host unreachable
+error (network unreachable) resolving 'p3sync.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'p3sync.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'p3sync.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1017::1#53
+error (network unreachable) resolving 'grandcloud.cn/DS/IN': 2001:dc7:1000::1#53
+client 192.168.1.130#39248: error sending response: host unreachable
+error (network unreachable) resolving 'edu.cn/DS/IN': 2001:dc7:1000::1#53
+client 192.168.1.130#33627: error sending response: host unreachable
+error (network unreachable) resolving 'mirrors.stuhome.net.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'mirrors.stuhome.net.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'mirrors.hust.edu.cn.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'mirrors.hust.edu.cn.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'hk/DS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on ::1#53
+no longer listening on 192.168.122.1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 187
+running
+client 192.168.1.130#49369: error sending response: host unreachable
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients5.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'noaa.gov/DNSKEY/IN': 2610:20:8c00:8c00::2#53
+error (network unreachable) resolving 'noaa.gov/DNSKEY/IN': 2610:20:8000:8c00::237#53
+error (network unreachable) resolving 'noaa.gov/DNSKEY/IN': 2610:20:8800:8c00::237#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2404:0:10a0::58#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:dca:1000::cb77:5713#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2607:f140:ffff:fffe::e#53
+error (network unreachable) resolving 'noaa.gov/DS/IN': 2001:500:4431::2:30#53
+error (network unreachable) resolving 'com/DNSKEY/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'gstatic.com/DS/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov.edgesuite.net/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov.edgesuite.net/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'www.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'www.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'www.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'cache.pack.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'cache.pack.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'cache.pack.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'evernote.com/DS/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov.edgesuite.net/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov.edgesuite.net/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'www.google.com.hk.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'www.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'cache.pack.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'www.evernote.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'mail.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ssl.google-analytics.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'clients5.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'www.evernote.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'www.evernote.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'www.evernote.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2610:a1:1015::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2610:a1:1015::1#53
+client 192.168.1.130#43189: error sending response: host unreachable
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1016::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1016::1#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 187
+running
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:19::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1a::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2610:a1:1014::1#53
+error (network unreachable) resolving 'ns1.sea1.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns1.sea1.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns1.sea1.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns1.sea1.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns1.yyz1.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns1.yyz1.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns1.yyz1.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns1.yyz1.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2610:20:8800:8c00::237#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2610:20:8800:8c00::237#53
+error (network unreachable) resolving 'noaa.gov/DNSKEY/IN': 2610:20:8c00:8c00::2#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:500:14:6046:ad::1#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'gov/DNSKEY/IN': 2001:500:4431::2:30#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'clients3.google.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'clients3.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'clients4.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'talk.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'www.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'net/DS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www-wide.l.google.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'www-wide.l.google.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+client 192.168.1.130#33059: error sending response: host unreachable
+error (network unreachable) resolving 'p3api.yunio.com/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'p3api.yunio.com/AAAA/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/A/IN': 2001:503:231d::2:30#53
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:503:231d::2:30#53
+client 192.168.1.130#53794: error sending response: host unreachable
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:67c:e0::1#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:dd8:6::101#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:13c7:7010::53#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:500:13::73#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:500:87::87#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:43f8:110::10#53
+error (network unreachable) resolving '121.1.168.192.in-addr.arpa/PTR/IN': 2001:5a0:10::2#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'blackhole-2.iana.org/AAAA/IN': 2001:500:89::53#53
+error (network unreachable) resolving 'blackhole-2.iana.org/A/IN': 2001:500:89::53#53
+error (network unreachable) resolving 'blackhole-1.iana.org/AAAA/IN': 2001:500:89::53#53
+error (network unreachable) resolving 'blackhole-1.iana.org/A/IN': 2001:500:89::53#53
+listening on IPv4 interface virbr0, 192.168.122.1#53
+binding TCP socket: address in use
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:4f8:0:2::19#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on ::1#53
+no longer listening on 192.168.122.1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 191
+running
+error (network unreachable) resolving 'p3event.yunio.com/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'com/DS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:e::1#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:503:ba3e::2:30#53
+client 192.168.1.130#43515: error sending response: host unreachable
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:9::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:7::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/A/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2001:500:6::79#53
+error (network unreachable) resolving 'ns.isc.afilias-nst.info/AAAA/IN': 2a01:8840:8::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:b::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:49::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:41::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1c::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:500:1b::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns3.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns4.ultradns.org/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns5.ultradns.info/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/A/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'pdns6.ultradns.co.uk/AAAA/IN': 2001:502:4612::1#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2c::254#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving '130.1.168.192.in-addr.arpa/PTR/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'r.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 't.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'r.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 't.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'u.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'u.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'v.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'v.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'y.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'w.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'y.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'w.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'x.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'x.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'z.arin.net/A/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'z.arin.net/AAAA/IN': 2001:503:a83e::2:30#53
+error (network unreachable) resolving 'b.iana-servers.net/AAAA/IN': 2001:500:8e::53#53
+error (network unreachable) resolving 'a.iana-servers.net/A/IN': 2001:500:8e::53#53
+error (network unreachable) resolving 'b.iana-servers.net/A/IN': 2001:500:8e::53#53
+error (network unreachable) resolving 'c.iana-servers.net/A/IN': 2001:500:8e::53#53
+error (network unreachable) resolving 'a.iana-servers.net/AAAA/IN': 2001:500:8e::53#53
+error (network unreachable) resolving 'c.iana-servers.net/AAAA/IN': 2001:500:8e::53#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:503:231d::2:30#53
+client 192.168.1.130#34783: error sending response: host unreachable
+client 192.168.1.130#33042: error sending response: host unreachable
+error (network unreachable) resolving 'ns1.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/A/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns1.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'ns2.isc.ultradns.net/AAAA/IN': 2001:502:f3ff::1#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'google.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'google.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+client 192.168.1.130#52444: error sending response: host unreachable
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::30#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::30#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::30#53
+client 192.168.1.130#39699: error sending response: host unreachable
+client 192.168.1.130#48608: error sending response: host unreachable
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+client 192.168.1.130#39209: error sending response: host unreachable
+client 192.168.1.130#54297: error sending response: host unreachable
+client 192.168.1.130#37414: error sending response: host unreachable
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+client 192.168.1.130#53097: error sending response: host unreachable
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:2eda::23#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:502:ad09::23#53
+client 192.168.1.130#45496: error sending response: host unreachable
+client 192.168.1.130#46535: error sending response: host unreachable
+client 192.168.1.130#58528: error sending response: host unreachable
+client 192.168.1.130#58880: error sending response: host unreachable
+client 192.168.1.130#57815: error sending response: host unreachable
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:2c::254#53
+client 192.168.1.130#57688: error sending response: host unreachable
+client 192.168.1.130#44524: error sending response: host unreachable
+client 192.168.1.130#59110: error sending response: host unreachable
+client 192.168.1.130#43588: error sending response: host unreachable
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:4f8:0:2::20#53
+client 192.168.1.130#41612: error sending response: host unreachable
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:60::29#53
+error (network unreachable) resolving 'p3event.yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+error (network unreachable) resolving 'yunio.com.dlv.isc.org/DLV/IN': 2001:500:71::29#53
+client 192.168.1.130#50969: error sending response: host unreachable
+client 192.168.1.130#34266: error sending response: host unreachable
+client 192.168.1.130#48248: error sending response: host unreachable
+client 192.168.1.130#57675: error sending response: host unreachable
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:e::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:f::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:40::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:48::1#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:48::1#53
+client 192.168.1.130#47192: error sending response: host unreachable
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:cd8:800::8#53
+error (network unreachable) resolving 'ns2.cuhk.hk/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ns2.cuhk.hk/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'deneb.dfn.de/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'deneb.dfn.de/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'deneb.dfn.de/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ns2.cuhk.hk/AAAA/IN': 2405:3001:1:3a::27#53
+error (network unreachable) resolving 'ns2.cuhk.hk/A/IN': 2405:3001:1:3a::27#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 197
+running
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'dlv.isc.org/DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './DNSKEY/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving '192.168.1.0/24/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving '192.168.1.0/24/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+managed-keys-zone ./IN: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone ./IN: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients3.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'cache.pack.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.google-analytics.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.google.com.hk/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ssl.gstatic.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mail.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.gstatic.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.evernote.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'alt1-safebrowsing.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'ssl.google-analytics.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'alt1-safebrowsing.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'alt1-safebrowsing.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'app.yinxiang.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'safebrowsing.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'alt1-safebrowsing.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'alt1-safebrowsing.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrorlist.centos.org/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrorlist.centos.org/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.stuhome.net/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.stuhome.net/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ftp.twaren.net/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ftp.twaren.net/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'centos.ustc.edu.cn/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'www.baidu.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'www.baidu.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.yun-idc.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.yun-idc.com/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirror.neu.edu.cn/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirror.neu.edu.cn/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirror.neu.edu.cn/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirror.neu.edu.cn/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.neusoft.edu.cn/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'ftp.stust.edu.tw/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.stuhome.net/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.stuhome.net/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.stuhome.net/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrors.stuhome.net/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirror.bit.edu.cn/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'mirrors.btte.net/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.btte.net/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'mirrors.tuna.tsinghua.edu.cn/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.tuna.tsinghua.edu.cn/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'mirrors.tuna.tsinghua.edu.cn/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'mirrors.tuna.tsinghua.edu.cn/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 199
+running
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'weather.noaa.gov/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'weather.noaa.gov/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talk.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving './NS/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.228.79.201#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.58.128.30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 128.8.10.90#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.203.230.10#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.36.148.17#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 199.7.83.42#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 193.0.14.129#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 128.63.2.53#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 202.12.27.33#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.168.1.253#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving './NS/IN': 192.228.79.201#53
+error (network unreachable) resolving './NS/IN': 192.58.128.30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.168.1.253#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.5.5.241#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 198.41.0.4#53
+error (network unreachable) resolving './NS/IN': 128.8.10.90#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 192.203.230.10#53
+error (network unreachable) resolving './NS/IN': 192.36.148.17#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.33.4.12#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'clients2.google.com/A/IN': 192.112.36.4#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 199.7.83.42#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving './NS/IN': 193.0.14.129#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.228.79.201#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.58.128.30#53
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.130#45489: Invalid argument
+client 192.168.1.130#45489: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.130#36040: Invalid argument
+client 192.168.1.130#36040: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.130#39153: Invalid argument
+client 192.168.1.130#39153: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.130#35811: Invalid argument
+client 192.168.1.130#35811: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.130#50984: Invalid argument
+client 192.168.1.130#50984: error sending response: invalid file
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving './NS/IN': 128.63.2.53#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 128.8.10.90#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.203.230.10#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving './NS/IN': 202.12.27.33#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving './NS/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving './NS/IN': 192.168.1.253#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.36.148.17#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 199.7.83.42#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving './NS/IN': 192.5.5.241#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving './NS/IN': 198.41.0.4#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 193.0.14.129#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.33.4.12#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.112.36.4#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving './NS/IN': 192.33.4.12#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving './NS/IN': 192.112.36.4#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 128.63.2.53#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:7fd::1#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'B.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 202.12.27.33#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving 'D.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'C.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'E.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'G.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 192.5.5.241#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 2001:503:c27::2:30#53
+error (network unreachable) resolving 'L.ROOT-SERVERS.NET/AAAA/IN': 2001:500:1::803f:235#53
+error (network unreachable) resolving 'I.ROOT-SERVERS.NET/AAAA/IN': 198.41.0.4#53
+error (network unreachable) resolving 'www.baidu.com/A/IN': 2001:dc3::35#53
+error (network unreachable) resolving './NS/IN': 2001:dc3::35#53
+error (network unreachable) resolving 'www.baidu.com/A/IN': 2001:500:2f::f#53
+error (network unreachable) resolving './NS/IN': 2001:500:2f::f#53
+error (network unreachable) resolving 'www.baidu.com/A/IN': 2001:503:ba3e::2:30#53
+error (network unreachable) resolving './NS/IN': 2001:503:ba3e::2:30#53
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.130#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 199
+running
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 192.168.1.254#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 192.168.1.254#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 192.168.1.253#53
+error (network unreachable) resolving 'talkx.l.google.com/A/IN': 192.168.1.253#53
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#10813: Invalid argument
+client 192.168.0.254#10813: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#44091: Invalid argument
+client 192.168.0.254#44091: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#36469: Invalid argument
+client 192.168.0.254#36469: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#35875: Invalid argument
+client 192.168.0.254#35875: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#35276: Invalid argument
+client 192.168.0.254#35276: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#26047: Invalid argument
+client 192.168.1.254#26047: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#39261: Invalid argument
+client 192.168.1.254#39261: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#17561: Invalid argument
+client 192.168.1.254#17561: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#28452: Invalid argument
+client 192.168.1.254#28452: error sending response: invalid file
+error (network unreachable) resolving 'clients4.google.com/A/IN': 192.168.1.254#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 192.168.1.253#53
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#32253: Invalid argument
+client 192.168.0.254#32253: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#28315: Invalid argument
+client 192.168.0.254#28315: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.0.254#34328: Invalid argument
+client 192.168.0.254#34328: error sending response: invalid file
+error (network unreachable) resolving 'clients4.google.com/A/IN': 192.168.1.254#53
+error (network unreachable) resolving 'clients4.google.com/A/IN': 192.168.1.253#53
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#31790: Invalid argument
+client 192.168.1.254#31790: error sending response: invalid file
+socket.c:1890: unexpected error:
+internal_send: 192.168.1.254#52715: Invalid argument
+client 192.168.1.254#52715: error sending response: invalid file
+managed-keys-zone ./IN: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone ./IN: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.0.254#53
+no longer listening on 192.168.1.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loading from master file named.example failed: permission denied
+zone example.com/IN: not loaded due to errors.
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 1
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 201
+running
+managed-keys-zone ./IN: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone ./IN: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 2
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 203
+running
+managed-keys-zone ./IN: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone ./IN: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+exiting
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 2
+zone sin90lzc.com/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+managed-keys-zone ./IN: loaded serial 205
+running
+managed-keys-zone ./IN: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone ./IN: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+reading built-in trusted keys from file '/etc/named.iscdlv.key'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+listening on IPv4 interface virbr0, 192.168.122.1#53
+binding TCP socket: address in use
+sizing zone task pool based on 8 zones
+using built-in DLV key for view _default

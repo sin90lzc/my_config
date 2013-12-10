@@ -1,0 +1,20 @@
+$TTL 1D
+@	IN SOA	d630.sin90lzc.com. root.sin90lzc.com. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	d630.sin90lzc.com.
+	MX 1	mail.sin90lzc.com.
+d630	A	192.168.1.130
+vm	A	192.168.1.140
+mia	A	192.168.1.140
+tim	A	192.168.1.130
+mail	A	192.168.1.140
+vm1	A	192.168.1.150
+vm2	A	192.168.1.160
+vm3	A	192.168.1.170
+vm4	A	192.168.1.180
+pop3	CNAME	mail
+smtp	CNAME	mail

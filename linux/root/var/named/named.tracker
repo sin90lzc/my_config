@@ -1,0 +1,11 @@
+$TTL 1D
+@	IN SOA	d630.example.com. root.example.com. (
+					2	; serial
+					3D	; refresh
+					4H	; retry
+					5W	; expire
+					3H )	; minimum
+@	IN	NS	d630.example.com.
+d630.example.com.	IN	A	192.168.1.254
+test1	IN	A	172.16.0.1
+test2	IN	A	172.16.0.2

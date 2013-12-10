@@ -1,0 +1,148 @@
+reloading configuration succeeded
+reloading zones succeeded
+zone example.com/IN: zone serial (2) unchanged. zone may fail to transfer to slaves.
+zone example.com/IN: loaded serial 2
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on ::1#53
+no longer listening on 192.168.122.1#53
+exiting
+zone example.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 0
+zone example.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 0
+running
+managed-keys-zone ./IN/wan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+managed-keys-zone ./IN/lan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.168.192.in-addr.arpa/IN/lan: loaded serial 20131210
+zone example.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 2
+zone 1.168.192.in-addr.arpa/IN/wan: loaded serial 20131210
+zone example.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 2
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.168.192.in-addr.arpa/IN/lan: loaded serial 20131210
+zone example.com/IN/lan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 2
+zone 1.168.192.in-addr.arpa/IN/wan: loaded serial 20131210
+zone example.com/IN/wan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 2
+running
+managed-keys-zone ./IN/lan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+managed-keys-zone ./IN/wan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.168.192.in-addr.arpa/IN/lan: loaded serial 20131210
+zone example.com/IN/lan: loaded serial 2
+zone domain2.example.com/IN/lan: loaded serial 2
+zone domain3.example.com/IN/lan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 3
+zone 1.168.192.in-addr.arpa/IN/wan: loaded serial 20131210
+zone example.com/IN/wan: loaded serial 2
+zone domain2.example.com/IN/wan: loaded serial 2
+zone domain3.example.com/IN/wan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 3
+running
+managed-keys-zone ./IN/lan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+managed-keys-zone ./IN/wan: Unable to fetch DNSKEY set 'dlv.isc.org': timed out
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on 192.168.122.1#53
+no longer listening on ::1#53
+exiting
+zone 0.168.192.in-addr.arpa/IN/lan: loaded serial 20131210
+zone example.com/IN/lan: loaded serial 2
+named.domain2:9: ignoring out-of-zone data (domain.example.com)
+zone domain2.example.com/IN/lan: loaded serial 2
+named.domain3:9: ignoring out-of-zone data (domain.example.com)
+zone domain3.example.com/IN/lan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 4
+zone 1.168.192.in-addr.arpa/IN/wan: loaded serial 20131210
+zone example.com/IN/wan: loaded serial 2
+named.domain2:9: ignoring out-of-zone data (domain.example.com)
+zone domain2.example.com/IN/wan: loaded serial 2
+named.domain3:9: ignoring out-of-zone data (domain.example.com)
+zone domain3.example.com/IN/wan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 4
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.122.1#53
+no longer listening on 192.168.1.254#53
+no longer listening on 192.168.0.254#53
+no longer listening on 172.24.2.254#53
+no longer listening on 172.24.3.254#53
+no longer listening on ::1#53
+exiting
+zone 0.168.192.in-addr.arpa/IN/lan: loaded serial 20131210
+zone example.com/IN/lan: loaded serial 2
+named.domain2:9: ignoring out-of-zone data (domain.example.com)
+zone domain2.example.com/IN/lan: loaded serial 2
+named.domain3:9: ignoring out-of-zone data (domain.example.com)
+zone domain3.example.com/IN/lan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/lan: loaded serial 2
+managed-keys-zone ./IN/lan: loaded serial 4
+zone 1.168.192.in-addr.arpa/IN/wan: loaded serial 20131210
+zone example.com/IN/wan: loaded serial 2
+named.domain2:9: ignoring out-of-zone data (domain.example.com)
+zone domain2.example.com/IN/wan: loaded serial 2
+named.domain3:9: ignoring out-of-zone data (domain.example.com)
+zone domain3.example.com/IN/wan: loaded serial 2
+named.tracker:9: ignoring out-of-zone data (d630.example.com)
+zone tracker.com/IN/wan: loaded serial 2
+managed-keys-zone ./IN/wan: loaded serial 4
+running
