@@ -5,18 +5,18 @@ port=27017
 maxConns=10
 
 #日志路径
-logpath=/home/mongodb/mongodb.log
+logpath=/home/mongodb/log/mongodb.log
 
 #mongdb进程启动后，是否以追加的形式添加日志
 logappend=true
 
-#
+#是否使用系统日志
 #syslog=false
 
 pidfilepath=/home/mongodb/mongodb.pid
 
 #指定存储身份验证信息的密钥文件的路径。默认缺省
-keyFile=/home/mongodb/.key/keyfile
+#keyFile=/home/mongodb/.key/keyfile
 
 #是否使用套接字文件,默认为false，即使用套接字文件
 #nounixsocket=false
