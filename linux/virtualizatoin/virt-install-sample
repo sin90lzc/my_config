@@ -66,3 +66,96 @@ virt-install \
 --disk path=/dev/vg_data/lv_vm_snap \
 --network bridge=br0,model=virtio 
 
+--install with local path(no network)
+virt-install \
+--connect=qemu:///session \
+--name vmx \
+--ram=1024 \
+--location=/mnt/centos \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/home/tim/kvm/disk/vmx \
+--network bridge=br0,model=virtio \
+--initrd-inject=/git/github/my_config/linux/kickstart/ks_vm.cfg \
+--extra-args "ks=file:/ks_vm.cfg"
+
+virt-install \
+--connect=qemu:///system \
+--name vmx \
+--ram=1024 \
+--location=/mnt/tmp \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/var/lib/libvirt/images/qcow2.img \
+--network bridge=br0,model=virtio \
+--initrd-inject=/git/github/my_config/linux/kickstart/ks_vm.cfg \
+--extra-args "ks=file:/ks_vm.cfg" \
+--noautoconsole
+
+
+virt-install \
+--connect=qemu:///system \
+--name vmx2 \
+--ram=1024 \
+--cdrom=/tmp/CentOS-6.3-x86_64-LiveCD.iso \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/var/lib/libvirt/images/test2.img \
+--network bridge=br0,model=virtio \
+
+
+
+#测试vnc方式安装kvm，在执行安装过程中，可以通过vnc访问虚拟机
+#--location：安装方法，这里指定引导盘
+#--disk:指定安装硬盘（为镜像啦），sparse表示镜像按实际大小占用磁盘。如果镜像文件不存在，需要提供size，创建镜像。
+#--initrd-inject:表示向initrdram中插入文件
+#--extra-args "ks=file:/ks_vm.cfg":使用其他参数，这里是使用kickstart文件
+#--graphics：指定图形界面共享方式，这里使用的是vnc，还有spice等。这里指定vnc的监听端口及网络接口
+#--noautoconsole:在安装的时候不要自动打开图形界面
+######
+命令启动之后，就可以通过vnc访问虚拟机了。
+vncviewer 127.0.0.1::5901 --shared &
+######
+virt-install \
+--connect=qemu:///system \
+--name vnc \
+--vcpus=1 \
+--ram=1024 \
+--location=/mnt/netinstall \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/var/lib/libvirt/images/vnc.img,format=qcow2,device=disk,bus=virtio,sparse=true,size=15 \
+--network bridge=br0,model=virtio \
+--initrd-inject=/git/github/my_config/linux/kickstart/ks_vm.cfg \
+--extra-args "ks=file:/ks_vm.cfg" \
+--graphics vnc,listen=127.0.0.1,port=5901 \
+--noautoconsole
+
+
+#CDROM#测试vnc方式安装kvm，在执行安装过程中，可以通过vnc访问虚拟机
+#--location：安装方法，这里指定引导盘
+#--disk:指定安装硬盘（为镜像啦），sparse表示镜像按实际大小占用磁盘。如果镜像文件不存在，需要提供size，创建镜像。
+#--initrd-inject:表示向initrdram中插入文件
+#--extra-args "ks=file:/ks_vm.cfg":使用其他参数，这里是使用kickstart文件
+#--graphics：指定图形界面共享方式，这里使用的是vnc，还有spice等。这里指定vnc的监听端口及网络接口
+#--noautoconsole:在安装的时候不要自动打开图形界面
+######
+命令启动之后，就可以通过vnc访问虚拟机了。
+vncviewer 127.0.0.1::5901 --shared &
+######
+virt-install \
+--connect=qemu:///system \
+--name vnc \
+--vcpus=1 \
+--ram=1024 \
+--location=/mnt/netinstall \
+--os-type=linux \
+--os-variant=rhel6 \
+--disk path=/var/lib/libvirt/images/vnc.img,format=qcow2,device=disk,bus=virtio,sparse=true,size=15 \
+--network bridge=br0,model=virtio \
+--initrd-inject=/git/github/my_config/linux/kickstart/ks_vm.cfg \
+--extra-args "ks=file:/ks_vm.cfg" \
+--graphics vnc,listen=127.0.0.1,port=5901 \
+--noautoconsole
+
+

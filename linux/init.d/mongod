@@ -1,0 +1,87 @@
+#!/bin/sh
+# chkconfig: 2345 20 80
+CONFIG_FILE_PATH=/home/mongodb/config
+
+SU_USER=mongodb
+
+MONGOD_PATH=/usr/local/mongodb/bin/mongod
+
+source $CONFIG_FILE_PATH
+
+START_CMD=""
+
+function getpid(){
+	if [ -e $pidfilepath ];then
+		PID=`cat $pidfilepath`
+	else
+		PID=""
+	fi
+}
+function start(){
+	echo "starting mongodb ..."
+	getpid
+	if [ "X$PID" == "X" ];then
+		START_CMD="/bin/su $SU_USER -c \"$MONGOD_PATH -vvvvv --config $CONFIG_FILE_PATH \""
+		eval $START_CMD
+		if [ $? -ne 0 ];then
+			echo "mongodb start failed"	
+			echo "" > $pidfilepath
+			exit 1
+		else
+			echo "mongodb started"
+		fi
+	else
+		echo "mongod is starting at pid:$PID"	
+		exit 1
+	fi
+}
+function stopit(){
+	getpid
+	if [ "X$PID" = "X" ];then
+		echo "mongodb was not running."
+		exit 1
+	else
+		/bin/kill -15 $PID
+		echo "" > $pidfilepath
+		if [ $? -ne 0 ];then
+			echo "Failed to stop mongodb"	
+			exit 1
+		else
+			echo "mongodb has stop"
+		fi
+	fi
+}
+function status(){
+	getpid
+	if [ "X$PID" = "X" ];then
+		echo "mongodb is not running"
+	else
+		echo "mongodb is running at pid:$PID"
+	fi
+}
+
+case "$1" in
+    'start')
+        start
+        ;;
+
+    'stop')
+        stopit
+        ;;
+
+    'restart')
+        stopit
+        start
+        ;;
+
+    'status')
+        status
+        ;;
+
+    *)
+        echo "Usage: $0 { start | stop | restart | status }"
+        exit 1
+        ;;
+esac
+
+exit 0
