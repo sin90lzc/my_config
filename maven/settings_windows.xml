@@ -80,6 +80,8 @@ under the License.
      | Specifies a further group identifier to use for plugin lookup.
     <pluginGroup>com.your.plugins</pluginGroup>
     -->
+	<pluginGroup>org.mortbay.jetty</pluginGroup>
+	<pluginGroup>org.apache.tomcat.maven</pluginGroup>
   </pluginGroups>
 
   <!-- proxies
@@ -143,7 +145,31 @@ under the License.
       <password>repopwd</password>
     </server>
     -->
-    
+    <server>
+		<id>tiny-dev</id>
+		<username>admin</username>
+		<password>tinydev</password>
+	</server>
+	<server>
+      <id>tiny-release-repo</id>
+      <username>admin</username>
+      <password>tinydev</password>
+    </server>
+		<server>
+      <id>tiny-snapshot-repo</id>
+      <username>admin</username>
+      <password>tinydev</password>
+    </server>
+	<server>
+      <id>my-release-repo</id>
+      <username>deploy</username>
+      <password>1qazxsw2</password>
+    </server>
+		<server>
+      <id>my-snapshot-repo</id>
+      <username>deploy</username>
+      <password>1qazxsw2</password>
+    </server>
     <!-- Another sample, using keys to authenticate.
     <server>
       <id>siteServer</id>
@@ -177,6 +203,15 @@ under the License.
       <url>http://my.repository.com/repo/path</url>
     </mirror>
      -->
+	 <mirror>
+		<id>tiny-dev</id>
+		<name>tiny-dev</name>
+<!--
+		<url>http://192.168.1.201:8081/nexus/content/groups/public/</url>
+-->
+		<url>http://27.54.254.203:8081/nexus/content/groups/public/</url>
+		<mirrorOf>central</mirrorOf>
+	</mirror>
   </mirrors>
   
   <!-- profiles
@@ -259,6 +294,135 @@ under the License.
 			</repository>
 		</repositories>
 	</profile>
+	<!-- tiny-dev建立的maven私服 -->
+	<profile>
+		<id>tiny-dev-repo</id>
+		<activation>
+			<activeByDefault>true</activeByDefault>
+		</activation>
+		<repositories>
+			<repository>
+				<id>public-release</id>
+				<name>public-release</name>
+				<url>http://27.54.254.203:8081/nexus/content/groups/public/</url>
+				<releases>
+					<enabled>true</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+			<repository>
+				<id>tiny-dev-release</id>
+				<name>tiny-dev-release</name>
+				<url>http://27.54.254.203:8081/nexus/content/repositories/tinydev/</url>
+				<releases>
+					<enabled>true</enabled>
+					<updatePolicy>always</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+			<repository>
+				<id>tiny-dev-snapshot</id>
+				<name>tiny-dev-snapshot</name>
+				<url>http://27.54.254.203:8081/nexus/content/repositories/tinydev-snapshot/</url>
+				<releases>
+					<enabled>false</enabled>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>true</enabled>
+					<updatePolicy>always</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+		</repositories>
+		<pluginRepositories>
+			<pluginRepository>
+				<id>tiny-dev-plugin</id>
+				<name>tiny-dev-plugin</name>
+				<url>http://27.54.254.203:8081/nexus/content/groups/public/</url>
+				<releases>
+					<enabled>true</enabled>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+				</snapshots>
+			</pluginRepository>
+		</pluginRepositories>
+	</profile>
+	<!-- 个人在虚拟机上建立的maven私服 -->
+	<profile>
+		<id>my-repo</id>
+		<repositories>
+			<repository>
+				<id>my-public-repo</id>
+				<name>my-public-repo</name>
+				<url>http://192.168.1.201:8081/nexus/content/groups/public/</url>
+				<releases>
+					<enabled>true</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+			<repository>
+				<id>my-dev-release</id>
+				<name>my-dev-release</name>
+				<url>http://192.168.1.201:8081/nexus/content/repositories/releases/</url>
+				<releases>
+					<enabled>true</enabled>
+					<updatePolicy>always</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+					<updatePolicy>never</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+			<repository>
+				<id>my-dev-snapshot</id>
+				<name>my-dev-snapshot</name>
+				<url>http://27.54.254.203:8081/nexus/content/repositories/snapshots/</url>
+				<releases>
+					<enabled>false</enabled>
+					<checksumPolicy>warn</checksumPolicy>
+				</releases>
+				<snapshots>
+					<enabled>true</enabled>
+					<updatePolicy>always</updatePolicy>
+					<checksumPolicy>warn</checksumPolicy>
+				</snapshots>
+			</repository>
+		</repositories>
+		<pluginRepositories>
+			<pluginRepository>
+				<id>my-dev-plugin</id>
+				<name>my-dev-plugin</name>
+				<url>http://192.168.1.201:8081/nexus/content/groups/public/</url>
+				<releases>
+					<enabled>true</enabled>
+				</releases>
+				<snapshots>
+					<enabled>false</enabled>
+				</snapshots>
+			</pluginRepository>
+		</pluginRepositories>
+	</profile>
     <!--
      | Here is another profile, activated by the system property 'target-env' with a value of 'dev',
      | which provides a specific path to the Tomcat instance. To use this, your plugin configuration
@@ -304,7 +468,14 @@ under the License.
   </activeProfiles>
   -->
   <activeProfiles>
-	<activeProfile>javadoc</activeProfile><!-- 激活javadoc插件 -->
+	<!-- 激活javadoc插件 -->
+	<!--
+	<activeProfile>javadoc</activeProfile>
+	-->
 	<!-- <activeProfile>jboss_repo</activeProfile> -->
+<!--
+	<activeProfile>tiny-dev-repo</activeProfile>
+-->
+	<activeProfile>my-repo</activeProfile>
   </activeProfiles>
 </settings>

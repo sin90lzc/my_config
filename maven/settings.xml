@@ -165,12 +165,12 @@ under the License.
 	<server>
       <id>my-release-repo</id>
       <username>deploy</username>
-      <password>68876964</password>
+      <password>1qazxsw2</password>
     </server>
 		<server>
       <id>my-snapshot-repo</id>
       <username>deploy</username>
-      <password>68876964</password>
+      <password>1qazxsw2</password>
     </server>
     <!-- Another sample, using keys to authenticate.
     <server>
